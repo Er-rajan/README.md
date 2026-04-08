@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Rajan+Gupta;AI%2FML+Engineer+%7C+Robotics+Developer;Building+Real-World+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=;AI%2FML+Engineer+%7C+Robotics+Developer;Building+Real-World+Intelligent+Systems" />
 </p>
 
 <p align="center">
@@ -97,12 +97,7 @@ My work focuses on implementing **machine learning algorithms into physical syst
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan-great&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-great&theme=tokyonight" />
-</p>
 
 ---
 
@@ -111,4 +106,4 @@ My work focuses on implementing **machine learning algorithms into physical syst
 </p>
 
 <p align="center">
-  <b>Engineering intelligence into mac
+  
