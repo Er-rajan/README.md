@@ -18,7 +18,7 @@
 
 **AI/ML Engineer & Robotics Developer**
 
-📧 [rraajjaann2001@gmail.com](mailto:rraajjaann2001@gmail.com)
+ [rraajjaann2001@gmail.com](mailto:rraajjaann2001@gmail.com)
 
 ---
 
